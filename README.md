@@ -1,7 +1,7 @@
 <h1>Hi🐋</h1>
 <p>I'm Mohammad</p>
-i'm a software engineer
-💻 I'm developing with [Python] and [C#].
+<p>I'm a software engineer</p>
+<p>💻 I'm developing with [Python] and [C#].</p>
 
 
 
