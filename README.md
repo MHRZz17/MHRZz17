@@ -1,5 +1,6 @@
-###Hi🐋
-#I'm Mohammad, a software engineer
+#Hi🐋
+I'm Mohammad
+i'm a software engineer
 💻 I'm developing with [Python] and [C#].
 
 
